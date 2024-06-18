@@ -281,9 +281,11 @@ This project demonstrates how to implement user registration and login functiona
     ```
 
 ## Security
+![photo_2024-06-18_19-54-15](https://github.com/rock-02/farmersfriend/assets/98045645/2b285e29-4246-4690-bd5f-8f1b69050fd0)
+
 
 The application uses JWT for securing the API endpoints. Ensure to keep your JWT secret key safe and secure. 
+![photo_2024-06-18_19-54-15](https://github.com/rock-02/farme![photo_2024-06-18_19-54-16 (2)](https://github.com/rock-02/farmersfriend/assets/98045645/92e62d4c-c9f3-4eb3-a3b8-386e241f9f00)
+![photo_2024-06-18_19-54-16](https://github.com/rock-02/farmersfriend/assets/98045645/f55c308d-4383-4ec5-9cd0-01d267348e9f)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
